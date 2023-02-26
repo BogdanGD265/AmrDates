@@ -1,0 +1,87 @@
+[
+  {
+    "ID": 0,
+    "NameOfAMR": "Ziua Unirii Principatelor Romane",
+    "AboutAMR": "Unirea Principatelor Române Moldova si Tara Romaneasca, formarea statului national roman modern (1859)",
+    "DateOfAMR": "2024/01/24",
+    "TypeOfAMR": "NationalHoliday",
+    "BankHoliday": 1,
+    "PhotoOfAMR": "",
+    "SourceOfInfoName": "",
+    "SourceOfInfoLink": ""
+  },
+  {
+    "ID": 1,
+    "NameOfAMR": "Ziua Internationala a Femeii",
+    "AboutAMR": "Ziua Internationala a Femeii INFO",
+    "DateOfAMR": "2023/03/08",
+    "TypeOfAMR": "NationalHoliday",
+    "BankHoliday": 0,
+    "PhotoOfAMR": "",
+    "SourceOfInfoName": "",
+    "SourceOfInfoLink": ""
+  },
+  {
+    "ID": 2,
+    "NameOfAMR": "Ziua Bibliei",
+    "AboutAMR": "Ziua Bibliei INFO",
+    "DateOfAMR": "2023/11/13",
+    "TypeOfAMR": "ReligiousHoliday",
+    "BankHoliday": 0,
+    "PhotoOfAMR": "",
+    "SourceOfInfoName": "",
+    "SourceOfInfoLink": ""
+  },
+  {
+    "ID": 3,
+    "NameOfAMR": "Craciunul",
+    "AboutAMR": "Craciunul INFO",
+    "DateOfAMR": "2023/12/25",
+    "TypeOfAMR": "ReligiousHoliday",
+    "BankHoliday": 1,
+    "PhotoOfAMR": "",
+    "SourceOfInfoName": "",
+    "SourceOfInfoLink": ""
+  },
+
+  {
+    "ID": 4,
+    "NameOfAMR": "Ziua mea",
+    "AboutAMR": "An nastere 1998",
+    "DateOfAMR": "2023/05/26",
+    "TypeOfAMR": "Personal",
+    "BankHoliday": 1,
+    "PhotoOfAMR": "",
+    "SourceOfInfoName": "",
+    "SourceOfInfoLink": ""
+  }
+]
+
+
+//{
+//  "Name": "Henry",
+//  "Location": "Phoenix",
+//  "Details": "An adorable Monkey who is traveling the world with Heather and live tweets his adventures @MotzMonkeys. His favorite platform is iOS by far and is excited for the new iPhone Xs!",
+//  "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/henry.jpg",
+//  "Population": 1,
+//  "Latitude": 33.448377,
+//  "Longitude": -112.074037
+//},
+//{
+//  "Name": "Red-shanked douc",
+//  "Location": "Vietnam",
+//  "Details": "The red-shanked douc is a species of Old World monkey, among the most colourful of all primates. The douc is an arboreal and diurnal monkey that eats and sleeps in the trees of the forest.",
+//  "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/douc.jpg",
+//  "Population": 1300,
+//  "Latitude": 16.111648,
+//  "Longitude": 108.262122
+//},
+//{
+//  "Name": "Mooch",
+//  "Location": "Seattle",
+//  "Details": "An adorable Monkey who is traveling the world with Heather and live tweets his adventures @MotzMonkeys. His favorite platform is iOS by far and is excited for the new iPhone 6s!",
+//  "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/Mooch.PNG",
+//  "Population": 1,
+//  "Latitude": 47.608013,
+//  "Longitude": -122.335167
+//}
